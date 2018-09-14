@@ -6,9 +6,9 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
 
 
 ## Required User Stories
-- [ ] User sees custom text in a label - Hello from {name}!
-- [ ] User see custom background color.
-- [ ] User can tap a button to change the text color of the label.
+- [X] User sees custom text in a label - Hello from {name}!
+- [X] User see custom background color.
+- [X] User can tap a button to change the text color of the label.
   
   </br>
  
@@ -24,3 +24,6 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
    - [ ]a. User can enter text into a text field using the keyboard.
   - [ ]b. User can tap the "Change text string" button to update the label with the text from the text field.
   - [ ] c. If the text field is empty, update label with default text string.
+
+
+http://recordit.co/MNGJShoHxI
