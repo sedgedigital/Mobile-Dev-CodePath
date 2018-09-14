@@ -26,4 +26,6 @@ This Hello World App is a pre-work project for CodePath.org's, Mobile App Design
   - [ ] c. If the text field is empty, update label with default text string.
 
 
-http://recordit.co/MNGJShoHxI
+Final Product
+
+http://g.recordit.co/MNGJShoHxI.gif
